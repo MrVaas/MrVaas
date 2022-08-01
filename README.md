@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrVaas
 - 👀 I’m interested in food
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on projetc
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me in the MORDOR
 
 <!---
